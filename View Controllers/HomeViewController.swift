@@ -2,8 +2,6 @@
 //  HomeViewController.swift
 //  Companies
 //
-//  Created by Osman Balci on 1/9/18.
-//  Copyright © 2018 Osman Balci. All rights reserved.
 //
 
 import UIKit
